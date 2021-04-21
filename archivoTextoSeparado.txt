@@ -1,0 +1,15 @@
+Variables: las variables son un espacio en memoria para almacenar valores (puede ser una caracteristica, cualidad o propiedad de un objeto) que luego puedo acceder a él. 
+  Tenemos tres tipos de variables:
+  a. Las variables que almacenan valores que cambian a lo largo del tiempo, su palabra clave var.
+  b. Las variables constantes que su valor no cambiara, su palabra clave const.
+  c. Las variables con alcance restringido, su palabra clave let.
+
+Strings: es una secuencia de caracteres o bloque de texto que deben ir entre comillas.
+
+Funcion: es un bloque de codigo (que tiene las mismas propiedades de cualquier objeto) y tiene como finalidad realizar una tarea. 
+Argumentos:sabiendo que la funcion es un objeto los argumentos son los valores que recibe la funcion cuando se invoca.
+Return:es la respuesta que arroja al ejecutarse la tarea asignada a la funcion.
+
+Declaraciones if es una instruccion dada a la funcion para ejecutar o NO ejecutar una tarea, a lo cual devolvera false(segun el caso).
+
+Valores booleanos (true, false) representa verdadero o falso, se utiliza en la funciones donde se requiere que al evaluar la tarea la respuesta sea si o no (true or false) como valores. 
