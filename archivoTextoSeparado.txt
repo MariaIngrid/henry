@@ -12,4 +12,4 @@ Return:es la respuesta que arroja al ejecutarse la tarea asignada a la funcion.
 
 Declaraciones if es una instruccion dada a la funcion para ejecutar o NO ejecutar una tarea, a lo cual devolvera false(segun el caso).
 
-Valores booleanos (true, false) representa verdadero o falso, se utiliza en la funciones donde se requiere que al evaluar la tarea la respuesta sea si o no (true or false) como valores. 
+Valores booleanos (true, false) representan verdadero o falso, se utiliza en la funciones donde se requiere que al evaluar la tarea la respuesta sea si o no (true or false) como valores para ejecutar la tarea. 
